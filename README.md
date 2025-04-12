@@ -78,7 +78,7 @@ En el código:
 
 En la siguiente gráfica podemos ver el rendimiento que ha tenido cada método con distintos grados de polinomios:
 
-![Metodos](Archivo CSV/Gráfica1.png)
+![Metodos](Archivo%20CSV/Gráfica1.png)
 
 # Analísis de resultados
 
