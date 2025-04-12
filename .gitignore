@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
-*.png
+
+git rm --cached Gráfica1.png
+git commit -m "Ignora Gráfica1.png"
+git push
