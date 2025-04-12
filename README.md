@@ -44,6 +44,10 @@ En el código:
 
 # Resultados experimentales y gráfica comparativa:
 
+En la siguiente gráfica podemos ver el rendimiento que ha tenido cada método con distintos grados de polinomios:
+
+![Metodos](Grafica1.png)
+
 
 
 # Compilador
