@@ -33,7 +33,7 @@ cd Evaluacion-de-Polinomios
 ```
 3. Compilar el código 
 ```sh
-g++ EvaluacionDePolinomios.cpp -o EvaluacionDePolinomios
+g++ "Archivo CPP/EvaluacionDePolinomios.cpp" -o EvaluacionDePolinomios
 ```
 4. Ejecutar código
 ```sh
